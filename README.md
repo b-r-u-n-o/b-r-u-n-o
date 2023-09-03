@@ -9,7 +9,7 @@
 
 ## Projetos Destacados
 - [Fastfood](https://github.com/b-r-u-n-o/java-challenger-food-fiap) - Modernização da aplicação de um fastfood local para um ambiente distribuído **POSTECH-FIAP**.
-- [API - Livraria](https://github.com/b-r-u-n-o/api-livraria-nodejs-express-mongodb) - Desenvolvimento de uma API com foco em uma livraria.
+- [API com Node.JS](https://github.com/b-r-u-n-o/api-livraria-nodejs-express-mongodb) - Desenvolvimento de uma API com foco em uma livraria.
 
 ## Habilidades
 - Linguagens de Programação: [Python, R, JavaScript, Java]
@@ -25,9 +25,6 @@
 
 ## Linguagens Mais Usadas
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=b-r-u-n-o&layout=compact&theme=dark)
-
-## Contribuições Recentes
-![Contribuições Recentes](https://github-readme-stats.vercel.app/api/wakatime?username=b-r-u-n-o&layout=compact&theme=dark)
 
 ## Agradecimentos
 Obrigado pela visita! Sinta-se à vontade parame seguir. Fique a vontade caso queira deixar um feedback.
