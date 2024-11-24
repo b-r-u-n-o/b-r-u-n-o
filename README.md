@@ -1,33 +1,31 @@
 # Hi there! 👋
 
-## Sobre mim
-- 🏄 Surfista de alma e fascinado por esportes de ação
-- 👨‍💻 Desenvolvedor de aplicações de dados, entusiasta, apaixonado por tecnologia.
-- 🌐 Tenho experiência na linguagem de programação Python, no entanto, já tive contato com R (Machine Learning), JavaScript e Java em desenvolvimento de APIs.
-- 📚 Estou sempre aprendendo e buscando aprimorar minhas habilidades, afinal a vida é constante movimento.
-- 🌊 Apoiador de causas que lutam pela preservação dos oceanos e toda vida marinha
+## About Me
+- 🏄 Soul surfer and action sports enthusiast
+- 👨‍💻 Data application developer, tech enthusiast, and passionate about technology.
+- 🌐 Experienced in Python programming, but I've also worked with R (Machine Learning), JavaScript, and Java for API development.
+- 📚 Always learning and improving my skills because life is all about constant movement.
+- 🌊 Supporter of causes that fight for ocean and marine life preservation.
 
-## Projetos Destacados
-- [Fastfood](https://github.com/b-r-u-n-o/java-challenger-food-fiap) - Modernização da aplicação de um fastfood local para um ambiente distribuído **POSTECH-FIAP**.
-- [API com Node.JS](https://github.com/b-r-u-n-o/api-livraria-nodejs-express-mongodb) - Desenvolvimento de uma API com foco em uma livraria.
+## Highlighted Projects
+- [Fastfood](https://github.com/b-r-u-n-o/java-challenger-food-fiap) - Modernizing a local fast-food application for a distributed environment **POSTECH-FIAP**.
+- [API with Node.JS](https://github.com/b-r-u-n-o/api-livraria-nodejs-express-mongodb) - Developing an API focused on a bookstore.
 
-## Habilidades
-- Linguagens de Programação: [Python, R, JavaScript, Java]
-- Frameworks e Bibliotecas: [PySpark, Pandas, Requests, Beatifull Soup, Numpy, AWS Wrangler, Boto3, Pytest, Node, Express, Spring Boot]
-- Outras habilidades: [Paixão por aprender, experiência pluralizada, focado em crescimento]
+## Skills
+- Programming Languages: [Python, R, JavaScript, Java]
+- Frameworks and Libraries: [PySpark, Pandas, Requests, Beautiful Soup, Numpy, AWS Wrangler, Boto3, Pytest, Node, Express, Spring Boot]
+- Other Skills: [Passion for learning, diverse experience, growth-oriented]
 
-## Contato
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/tsbruno/)
+## Contact
+- 📫 Where to find me: [LinkedIn](https://www.linkedin.com/in/tsbruno/)
 
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=b-r-u-n-o&show_icons=true&theme=dark)
 
-## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=b-r-u-n-o&show_icons=true&theme=dark)
+## Most Used Languages
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=b-r-u-n-o&layout=compact&theme=dark)
 
-## Linguagens Mais Usadas
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=b-r-u-n-o&layout=compact&theme=dark)
+## Thanks
+Thanks for stopping by! Feel free to follow me and share your feedback.
 
-## Agradecimentos
-Obrigado pela visita! Sinta-se à vontade parame seguir. Fique a vontade caso queira deixar um feedback.
-
-[![GitHub Seguir](https://img.shields.io/github/followers/b-r-u-n-o?label=Siga%20no%20GitHub&style=social)](https://github.com/b-r-u-n-o)
-
+[![GitHub Follow](https://img.shields.io/github/followers/b-r-u-n-o?label=Follow%20on%20GitHub&style=social)](https://github.com/b-r-u-n-o)
